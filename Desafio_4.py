@@ -4,4 +4,6 @@
 from random import choice
 nomes = ["Miguel", "Kaio", "Leonardo", "Gustavo A"]
 
+escolhido = choice(nomes)
 
+print(escolhido)
